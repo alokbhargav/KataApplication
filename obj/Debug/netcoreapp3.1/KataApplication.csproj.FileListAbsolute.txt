@@ -1,0 +1,14 @@
+C:\Users\alokumar\source\repos\KataApplication\obj\Debug\netcoreapp3.1\KataApplication.AssemblyInfoInputs.cache
+C:\Users\alokumar\source\repos\KataApplication\obj\Debug\netcoreapp3.1\KataApplication.AssemblyInfo.cs
+C:\Users\alokumar\source\repos\KataApplication\obj\Debug\netcoreapp3.1\KataApplication.csproj.CoreCompileInputs.cache
+C:\Users\alokumar\source\repos\KataApplication\bin\Debug\netcoreapp3.1\KataApplication.exe
+C:\Users\alokumar\source\repos\KataApplication\bin\Debug\netcoreapp3.1\KataApplication.deps.json
+C:\Users\alokumar\source\repos\KataApplication\bin\Debug\netcoreapp3.1\KataApplication.runtimeconfig.json
+C:\Users\alokumar\source\repos\KataApplication\bin\Debug\netcoreapp3.1\KataApplication.runtimeconfig.dev.json
+C:\Users\alokumar\source\repos\KataApplication\bin\Debug\netcoreapp3.1\KataApplication.dll
+C:\Users\alokumar\source\repos\KataApplication\bin\Debug\netcoreapp3.1\KataApplication.pdb
+C:\Users\alokumar\source\repos\KataApplication\obj\Debug\netcoreapp3.1\KataApplication.dll
+C:\Users\alokumar\source\repos\KataApplication\obj\Debug\netcoreapp3.1\KataApplication.pdb
+C:\Users\alokumar\source\repos\KataApplication\obj\Debug\netcoreapp3.1\KataApplication.genruntimeconfig.cache
+C:\Users\alokumar\source\repos\KataApplication\bin\Debug\netcoreapp3.1\Resources\KataInput.txt
+C:\Users\alokumar\source\repos\KataApplication\obj\Debug\netcoreapp3.1\KataApplication.csprojAssemblyReference.cache
